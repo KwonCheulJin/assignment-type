@@ -1,12 +1,16 @@
-# 코멘토 피드 시스템
+# 과제 전형 기록
 
-- 코멘토 Front-end 개발 과제
+- 프론트엔드 채용 과제전형 기록
+- 기간내에 진행 하지 못했던 기능 구현 진행
 
-## 기술스텍
+#
 
-- react.js
-- react-router
-- sass
-- redux
-- axios
-- eslint, prettier
+| 기업명    | 코멘토             |
+| --------- | ------------------ |
+| 과제 내용 | 코멘토 피드 시스템 |
+| 기술스텍  | - react.js         |
+|           | - react-router     |
+|           | - sass             |
+|           | - redux            |
+|           | - axios            |
+|           | - eslint, prettier |
